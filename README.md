@@ -1,6 +1,6 @@
 # Title: CodTech IT Solutions Internship - Task Documentation: ChatBot in Java
 
-This documrntation provides a detailed explanation of the task assigned during the CodTech IT solutions Internship program. the task involves writing a java program to create a SampleChatbot .task documentations will cover the implementation details, retionals behaind the code structure, and insights into the programming techiques utilized. additionally , it will include about the interm, D. Mahesh Kumar, and his assigned ID, ICOD6731
+This documrntation provides a detailed explanation of the task assigned during the CodTech IT solutions Internship program. the task involves writing a java program to create a Sample ChatBot .task documentations will cover the implementation details, retionals behaind the code structure, and insights into the programming techiques utilized. additionally , it will include about the interm, D. Mahesh Kumar, and his assigned ID, ICOD6731
 
 Interm Information. Name : D. Mahesh Kumar Intern ID:ICOD6731
 
@@ -161,6 +161,7 @@ public class ChatBot {
 Once the program is running, the chatbot will greet the user and prompt for input. Type your message and press Enter to communicate with the chatbot. You can explore various features by typing specific commands or questions such as "tell me a joke" or "what is the time?".
 
 Example interaction:
+
 `Chatbot: Hi! How can I assist you today?
 User: tell me a joke
 Chatbot: Why did the math book look sad? Because it had too many problems! 😄`
