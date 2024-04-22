@@ -1,17 +1,17 @@
-Titlee CodTech IT Solutions Internship - Task Documentation: ChatBot in Java
+# Titlee CodTech IT Solutions Internship - Task Documentation: ChatBot in Java
 
-This documrntationprovides a detailed explanation of the task assigned during the CodTech IT solutions Internship program. the task involves writing a java program to create a SampleChatbot .task documentations will cover the implementation details, retionals behaind the code structure, and insights into the programming techiques utilized. additionally , it will include about the interm, D. Mahesh Kumar, and his assigned ID, ICOD6731
+This documrntation provides a detailed explanation of the task assigned during the CodTech IT solutions Internship program. the task involves writing a java program to create a SampleChatbot .task documentations will cover the implementation details, retionals behaind the code structure, and insights into the programming techiques utilized. additionally , it will include about the interm, D. Mahesh Kumar, and his assigned ID, ICOD6731
 
 Interm Information. Name : D. Mahesh Kumar Intern ID:ICOD6731
 
 Task Description : the task assigned to D. Mahesh Kumar during the codtech IT solutions Internship program is to write a java program the create a SampleChatbot.
-#1. Introduction
+**1. Introduction**
 
 ChatBot is a simple Java-based chatbot program that simulates a conversation with users. 
 
 It provides various features such as responding to greetings, sharing jokes, opening Notepad, providing current time and date, sharing random facts, offering recommendations, performing basic calculations, and allowing users to exit the conversation.
 
-#2. Features
+**2. Features**
 
 Greeting Response: The chatbot responds to greetings like "hi" and "hello" with a friendly message.
 
@@ -27,7 +27,7 @@ Recommendations: It offers recommendations for users, such as trying out a new r
 
 Exiting Conversation: Users can exit the conversation by typing "exit".
 
-#3. Installation
+**3. Installation**
 
 To run the SampleChatbot program:
 
@@ -45,11 +45,11 @@ Run the program using the command: java ChatBot
 
 Follow the on-screen instructions to interact with the chatbot.
 
-#4.Implementation
+**4.Implementation**
 
 the implementation of the task involves utilizing java programming language to create a simple program that iterates from ChatBot . the program "do" loop to achiew this functionaaly efficiently. below is the 
 
-#5. code implementation:
+**5. code implementation:**
 
 import java.util.Scanner;
 import java.io.*;
@@ -157,7 +157,7 @@ public class ChatBot {
     
 }
 
-#6.Usage
+**6.Usage**
 Once the program is running, the chatbot will greet the user and prompt for input. Type your message and press Enter to communicate with the chatbot. You can explore various features by typing specific commands or questions such as "tell me a joke" or "what is the time?".
 
 Example interaction:
@@ -167,6 +167,6 @@ Chatbot: Why did the math book look sad? Because it had too many problems! 😄`
 
 **Future Enhancements** Potential future enhancements for the Java Chatbot include integrating advanced natural language processing techniques, expanding the response database, and adding features such as voice recognition.
 
-#7. Conclusion: 
+**7. Conclusion:** 
 
 In conclusion, the Java Chatbot project provides a simple yet effective way to engage in conversation using natural language input. With further development and enhancements, it has the potential to become a more sophisticated and intelligent conversational agent.
